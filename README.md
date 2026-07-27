@@ -25,7 +25,7 @@ cRNA-Seq, CITE-Seq and ChIP-SeqA_database:
 
 [Scanpy Pipeline](https://github.com/Katherine-Brown-8000/AER/blob/main/AER_3%20(4).ipynb)
 
-[First CellTypist Attempt](https://github.com/Katherine-Brown-8000/AER/blob/main/AER_4.ipynb)
+[First CellTypist Attempt](https://github.com/Katherine-Brown-8000/AER/blob/main/AER_4%20(1).ipynb)
 
 # Programs
 
