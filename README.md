@@ -1,7 +1,7 @@
 # AER
 
 # Summery of project
-Using the GSE159677 dataset of both diseased and healthy vascular tissues to identify the trsidtion
+Using the GSE159677 dataset of both diseased and healthy vascular tissues to identify the transition
 of SMC (Smooth Muscle Cell tissue). Using scanpy and Celltypist.
 
 # Dataset used in Scanpy pipeline
