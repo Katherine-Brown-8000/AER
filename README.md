@@ -1,5 +1,9 @@
 # AER
 
+# Summery of project
+Using the GSE159677 dataset of both diseased and healthy vascular tissues to identify the trsidtion
+of SMC (Smooth Muscle Cell tissue). Using scanpy and Celltypist.
+
 # Dataset used in Scanpy pipeline
 [GSE159677](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE159677)
 
