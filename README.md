@@ -27,6 +27,8 @@ cRNA-Seq, CITE-Seq and ChIP-SeqA_database:
 
 [First CellTypist Attempt](https://github.com/Katherine-Brown-8000/AER/blob/main/AER_4%20(1).ipynb)
 
+[Second Successful Cell Annotation](https://github.com/Katherine-Brown-8000/AER/blob/main/AER_5.ipynb)
+
 # Programs
 
 [Scanpy](https://pypi.org/project/scanpy/)
