@@ -21,7 +21,8 @@ cRNA-Seq, CITE-Seq and ChIP-SeqA_database:
 
 [GSE155513](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE155513)
 
-# Codebooks
+# Codebooks:
+## Pre-reconstruction Code Books:
 
 [First File Extraction Attempt](https://github.com/Katherine-Brown-8000/AER/blob/main/AER_1.ipynb)
 
@@ -34,6 +35,9 @@ cRNA-Seq, CITE-Seq and ChIP-SeqA_database:
 [Second Successful Cell Annotation](https://github.com/Katherine-Brown-8000/AER/blob/main/AER_5.ipynb)
 
 [Cell State Analysis](https://github.com/Katherine-Brown-8000/AER/blob/main/AER_6.ipynb)
+
+## Post Reconstruction Code Books:
+### Notes on Reconstruction, during the research project, my computer died. Meaning all my allocated datasets from the pre-reconstruction where lost. Therefore the research essential had to be restarted, starting with redownloading the Anthroscelrosis dataset on my labtop. The ubove code books are more their for archiving purposes.
 
 # Programs
 
