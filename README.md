@@ -38,7 +38,7 @@ cRNA-Seq, CITE-Seq and ChIP-SeqA_database:
 
 ## Post Reconstruction Code Books:
 ### Notes on Reconstruction:
-During the research project, my computer died. Meaning all my annoted datasets from the pre-reconstruction where lost. Therefore the research essential had to be restarted, starting with redownloading the Anthroscelrosis dataset on my labtop. The ubove code books are more their for archiving purposes. What follows is the research in the paper.
+During the research project, my computer died. Meaning all my annoted datasets from the pre-reconstruction where lost. Therefore the research essential had to be restarted, starting with redownloading the Anthroscelrosis dataset on my labtop. The ubove code books are more their for archiving purposes. What follows is the research in the project.
 
 # Programs
 
