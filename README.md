@@ -40,7 +40,7 @@ cRNA-Seq, CITE-Seq and ChIP-SeqA_database:
 ### Notes on Reconstruction:
 During the research project, my computer died. Meaning all my annoted datasets from the pre-reconstruction where lost. Therefore the research essential had to be restarted, starting with redownloading the Anthroscelrosis dataset on my labtop. The ubove code books are more there for archiving purposes. What follows is the code and datasets used in the project.
 
-[Redownloading packages and creating Python Environment](https://github.com/Katherine-Brown-8000/AER/blob/main/AER_Rec_1.ipynb))
+[Redownloading Packages and Creating New Python Environment](https://github.com/Katherine-Brown-8000/AER/blob/main/AER_Rec_1.ipynb)
 
 
 # Programs
